@@ -12,8 +12,8 @@ const MovieCard = () => {
             />
 
             <div className="movie_details">
-                <h3 className="align_center movie_details_heading">Movie Name</h3>
-                <div className="movie_date_rate">
+                <h3 className="movie_details_heading">Movie Name</h3>
+                <div className="align_center movie_date_rate">
                     <p>10-20-2020</p>
                     <p>
                         8.0{" "}

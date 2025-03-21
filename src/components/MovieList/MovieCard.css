@@ -50,6 +50,12 @@
     color: #ffe400;
 }
 
+.movie_date_rate p:last-child {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 .card_emoji {
     width: 20px;
     height: 20px;
